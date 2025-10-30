@@ -1,136 +1,108 @@
-{
-  "id": 928896417,
-  "node_id": "R_kgDON13VoQ",
-  "name": "ClearVision-v7",
-  "full_name": "ClearVision/ClearVision-v7",
-  "private": false,
-  "owner": {
-    "login": "ClearVision",
-    "id": 51228765,
-    "node_id": "MDEyOk9yZ2FuaXphdGlvbjUxMjI4NzY1",
-    "avatar_url": "https://avatars.githubusercontent.com/u/51228765?v=4",
-    "gravatar_id": "",
-    "url": "https://api.github.com/users/ClearVision",
-    "html_url": "https://github.com/ClearVision",
-    "followers_url": "https://api.github.com/users/ClearVision/followers",
-    "following_url": "https://api.github.com/users/ClearVision/following{/other_user}",
-    "gists_url": "https://api.github.com/users/ClearVision/gists{/gist_id}",
-    "starred_url": "https://api.github.com/users/ClearVision/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/ClearVision/subscriptions",
-    "organizations_url": "https://api.github.com/users/ClearVision/orgs",
-    "repos_url": "https://api.github.com/users/ClearVision/repos",
-    "events_url": "https://api.github.com/users/ClearVision/events{/privacy}",
-    "received_events_url": "https://api.github.com/users/ClearVision/received_events",
-    "type": "Organization",
-    "user_view_type": "public",
-    "site_admin": false
-  },
-  "html_url": "https://github.com/ClearVision/ClearVision-v7",
-  "description": "Highly customizable theme for BetterDiscord and Vencord.",
-  "fork": false,
-  "url": "https://api.github.com/repos/ClearVision/ClearVision-v7",
-  "forks_url": "https://api.github.com/repos/ClearVision/ClearVision-v7/forks",
-  "keys_url": "https://api.github.com/repos/ClearVision/ClearVision-v7/keys{/key_id}",
-  "collaborators_url": "https://api.github.com/repos/ClearVision/ClearVision-v7/collaborators{/collaborator}",
-  "teams_url": "https://api.github.com/repos/ClearVision/ClearVision-v7/teams",
-  "hooks_url": "https://api.github.com/repos/ClearVision/ClearVision-v7/hooks",
-  "issue_events_url": "https://api.github.com/repos/ClearVision/ClearVision-v7/issues/events{/number}",
-  "events_url": "https://api.github.com/repos/ClearVision/ClearVision-v7/events",
-  "assignees_url": "https://api.github.com/repos/ClearVision/ClearVision-v7/assignees{/user}",
-  "branches_url": "https://api.github.com/repos/ClearVision/ClearVision-v7/branches{/branch}",
-  "tags_url": "https://api.github.com/repos/ClearVision/ClearVision-v7/tags",
-  "blobs_url": "https://api.github.com/repos/ClearVision/ClearVision-v7/git/blobs{/sha}",
-  "git_tags_url": "https://api.github.com/repos/ClearVision/ClearVision-v7/git/tags{/sha}",
-  "git_refs_url": "https://api.github.com/repos/ClearVision/ClearVision-v7/git/refs{/sha}",
-  "trees_url": "https://api.github.com/repos/ClearVision/ClearVision-v7/git/trees{/sha}",
-  "statuses_url": "https://api.github.com/repos/ClearVision/ClearVision-v7/statuses/{sha}",
-  "languages_url": "https://api.github.com/repos/ClearVision/ClearVision-v7/languages",
-  "stargazers_url": "https://api.github.com/repos/ClearVision/ClearVision-v7/stargazers",
-  "contributors_url": "https://api.github.com/repos/ClearVision/ClearVision-v7/contributors",
-  "subscribers_url": "https://api.github.com/repos/ClearVision/ClearVision-v7/subscribers",
-  "subscription_url": "https://api.github.com/repos/ClearVision/ClearVision-v7/subscription",
-  "commits_url": "https://api.github.com/repos/ClearVision/ClearVision-v7/commits{/sha}",
-  "git_commits_url": "https://api.github.com/repos/ClearVision/ClearVision-v7/git/commits{/sha}",
-  "comments_url": "https://api.github.com/repos/ClearVision/ClearVision-v7/comments{/number}",
-  "issue_comment_url": "https://api.github.com/repos/ClearVision/ClearVision-v7/issues/comments{/number}",
-  "contents_url": "https://api.github.com/repos/ClearVision/ClearVision-v7/contents/{+path}",
-  "compare_url": "https://api.github.com/repos/ClearVision/ClearVision-v7/compare/{base}...{head}",
-  "merges_url": "https://api.github.com/repos/ClearVision/ClearVision-v7/merges",
-  "archive_url": "https://api.github.com/repos/ClearVision/ClearVision-v7/{archive_format}{/ref}",
-  "downloads_url": "https://api.github.com/repos/ClearVision/ClearVision-v7/downloads",
-  "issues_url": "https://api.github.com/repos/ClearVision/ClearVision-v7/issues{/number}",
-  "pulls_url": "https://api.github.com/repos/ClearVision/ClearVision-v7/pulls{/number}",
-  "milestones_url": "https://api.github.com/repos/ClearVision/ClearVision-v7/milestones{/number}",
-  "notifications_url": "https://api.github.com/repos/ClearVision/ClearVision-v7/notifications{?since,all,participating}",
-  "labels_url": "https://api.github.com/repos/ClearVision/ClearVision-v7/labels{/name}",
-  "releases_url": "https://api.github.com/repos/ClearVision/ClearVision-v7/releases{/id}",
-  "deployments_url": "https://api.github.com/repos/ClearVision/ClearVision-v7/deployments",
-  "created_at": "2025-02-07T12:42:45Z",
-  "updated_at": "2025-10-30T17:47:06Z",
-  "pushed_at": "2025-10-30T17:47:23Z",
-  "git_url": "git://github.com/ClearVision/ClearVision-v7.git",
-  "ssh_url": "git@github.com:ClearVision/ClearVision-v7.git",
-  "clone_url": "https://github.com/ClearVision/ClearVision-v7.git",
-  "svn_url": "https://github.com/ClearVision/ClearVision-v7",
-  "homepage": null,
-  "size": 1575,
-  "stargazers_count": 61,
-  "watchers_count": 61,
-  "language": "SCSS",
-  "has_issues": true,
-  "has_projects": true,
-  "has_downloads": true,
-  "has_wiki": false,
-  "has_pages": true,
-  "has_discussions": false,
-  "forks_count": 64,
-  "mirror_url": null,
-  "archived": false,
-  "disabled": false,
-  "open_issues_count": 5,
-  "license": {
-    "key": "apache-2.0",
-    "name": "Apache License 2.0",
-    "spdx_id": "Apache-2.0",
-    "url": "https://api.github.com/licenses/apache-2.0",
-    "node_id": "MDc6TGljZW5zZTI="
-  },
-  "allow_forking": true,
-  "is_template": false,
-  "web_commit_signoff_required": false,
-  "topics": [
-
-  ],
-  "visibility": "public",
-  "forks": 64,
-  "open_issues": 5,
-  "watchers": 61,
-  "default_branch": "master",
-  "temp_clone_token": null,
-  "custom_properties": {
-
-  },
-  "organization": {
-    "login": "ClearVision",
-    "id": 51228765,
-    "node_id": "MDEyOk9yZ2FuaXphdGlvbjUxMjI4NzY1",
-    "avatar_url": "https://avatars.githubusercontent.com/u/51228765?v=4",
-    "gravatar_id": "",
-    "url": "https://api.github.com/users/ClearVision",
-    "html_url": "https://github.com/ClearVision",
-    "followers_url": "https://api.github.com/users/ClearVision/followers",
-    "following_url": "https://api.github.com/users/ClearVision/following{/other_user}",
-    "gists_url": "https://api.github.com/users/ClearVision/gists{/gist_id}",
-    "starred_url": "https://api.github.com/users/ClearVision/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/ClearVision/subscriptions",
-    "organizations_url": "https://api.github.com/users/ClearVision/orgs",
-    "repos_url": "https://api.github.com/users/ClearVision/repos",
-    "events_url": "https://api.github.com/users/ClearVision/events{/privacy}",
-    "received_events_url": "https://api.github.com/users/ClearVision/received_events",
-    "type": "Organization",
-    "user_view_type": "public",
-    "site_admin": false
-  },
-  "network_count": 64,
-  "subscribers_count": 4
+/**
+ * @name ClearVision V7 for BetterDiscord
+ * @author ClearVision Team
+ * @version 7.0.1
+ * @description Highly customizable theme for BetterDiscord.
+ * @source https://github.com/ClearVision/ClearVision-v7
+ * @website https://clearvision.github.io
+ * @invite dHaSxn3
+ */
+/* IMPORT CSS */
+@import url("https://clearvision.github.io/ClearVision-v7/main.css");
+@import url("https://clearvision.github.io/ClearVision-v7/betterdiscord.css");
+/* SETTINGS */
+:root {
+  /* ACCENT COLORS */
+  --main-color: #2780e6; /* main accent color (hex, rgb or hsl) [default: #2780e6] */
+  --hover-color: #1e63b3; /* hover accent color (hex, rgb or hsl) [default: #1e63b3] */
+  --success-color: #43b581; /* positive accent color (hex, rgb or hsl) [default: #43b581] */
+  --danger-color: #982929; /* danger accent color (hex, rgb or hsl) [default: #982929] */
+  /* STATUS COLORS */
+  --online-color: #43b581; /* online status color (hex, rgb or hsl) [default: #43b581] */
+  --idle-color: #faa61a; /* idle status color (hex, rgb or hsl) [default: #faa61a] */
+  --dnd-color: #982929; /* dnd status color (hex, rgb or hsl) [default: #982929] */
+  --streaming-color: #593695; /* streaming status color (hex, rgb or hsl) [default: #593695] */
+  --offline-color: #808080; /* offline/invisible status color (hex, rgb or hsl) [default: #808080] */
+  /* APP BACKGROUND */
+  --background-shading-percent: 100%; /* app background shading amount (0 for complete smoothness) [default: 100%] */
+  --background-image: url(https://clearvision.github.io/images/sapphire.jpg); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
+  --background-position: center; /* app background position [default: center] */
+  --background-size: cover; /* app background size (px) [default: cover] */
+  --background-attachment: fixed; /* app background attachment [default: fixed] */
+  --background-filter: saturate(calc(var(--saturation-factor, 1) * 1)); /* app background adjustments (ex: blur, saturation, brightness) (more info: https://developer.mozilla.org/en-US/docs/Web/CSS/filter) [default: saturate(calc(var(--saturation-factor, 1) * 1))] */
+  /* USER POPOUT BACKGROUND */
+  --user-popout-image: var(--background-image); /* user popout background image (link must be HTTPS) (not applied to nitro users) [default: var(--background-image)] */
+  --user-popout-position: var(--background-position); /* user popout position [default: var(--background-position)] */
+  --user-popout-size: var(--background-size); /* user popout size (px) [default: var(--background-size)] */
+  --user-popout-attachment: var(--background-attachment); /* user popout background attachment [default: var(--background-attachment)] */
+  --user-popout-filter: var(--background-filter); /* user popout background adjustments (ex: blur, saturation, brightness) (more info: https://developer.mozilla.org/en-US/docs/Web/CSS/filter) [default: var(--background-filter);] */
+  /* USER MODAL BACKGROUND */
+  --user-modal-image: var(--background-image); /* user modal background image (link must be HTTPS) (not applied to nitro users) [default: var(--background-image)] */
+  --user-modal-position: var(--background-position); /* user modal position [default: var(--background-position)] */
+  --user-modal-size: var(--background-size); /* user modal size (px) [default: var(--background-size)] */
+  --user-modal-attachment: var(--background-attachment); /* user modal background attachment [default: var(--background-attachment)] */
+  --user-modal-filter: var(--background-filter); /* user modal background adjustments (ex: blur, saturation, brightness) (more info: https://developer.mozilla.org/en-US/docs/Web/CSS/filter) [default: var(--background-filter);] */
+  /* HOME ICON */
+  --home-icon: url(https://clearvision.github.io/icons/discord.svg); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
+  --home-size: cover; /* home button icon size (px) [default:cover] */
+  /* FONTS */
+  --main-font: "gg sans", "Helvetica Neue", Helvetica, Arial, sans-serif; /* main font for app (font must be installed) [default: gg sans, Helvetica Neue, Helvetica, Arial, sans-serif] */
+  --code-font: Consolas, "gg mono", "Liberation Mono", Menlo, Courier, monospace; /* font for codeblocks (font must be installed) [default: Consolas, Liberation Mono, Menlo, Courier, monospace] */
+  /* CHANNEL COLORS */
+  --channel-normal: var(--interactive-normal); /* channel text color [default: var(--interactive-normal)] */
+  --channel-muted: var(--interactive-muted); /* muted channel text color [default: var(--interactive-muted)] */
+  --channel-hover: var(--interactive-hover); /* hovered channel text color [default: var(--interactive-hover)] */
+  --channel-selected: var(--interactive-active); /* selected channel text color [default: var(--interactive-active)] */
+  --channel-selected-bg: var(--main-color); /* selected channel background [default: var(--main-color)] */
+  --channel-unread: var(--main-color); /* unread channel text color [default: var(--main-color)] */
+  --channel-unread-hover: var(--hover-color); /* unread channel hover color [default: var(--hover-color)] */
+  /* ACCESSIBILITY */
+  --focus-color: var(--main-color); /* outline when pressing TAB key [default: var(--main-color)] */
 }
+
+/* THEME SPECIFIC SHADING */
+/* LIGHT THEME */
+:is(.theme-light, .theme-dark .theme-light) {
+  --background-shading: rgba(252, 252, 252, 0.3); /* app background shading color [default: rgba(252, 252, 252, 0.3)] */
+  --card-shading: rgba(252, 252, 252, 0.3); /* cards background shading color [default: rgba(252, 252, 252, 0.3)] */
+  --popout-shading: rgba(252, 252, 252, 0.7); /* popouts background shading color [default: rgba(252, 252, 252, 0.7)] */
+  --modal-shading: rgba(252, 252, 252, 0.5); /* modals background shading color [default: rgba(0, 0, 0, 0.6)] */
+  --input-shading: rgba(0, 0, 0, 0.3); /* inputs background shading color [default: rgba(0, 0, 0, 0.6)] */
+  --normal-text: #36363c; /* text color [default: #36363c] */
+  --muted-text: #75757e; /* muted text color [default: #75757e] */
+}
+
+/* ASH THEME */
+:is(.theme-dark, .theme-light .theme-dark) {
+  --background-shading: rgba(0, 0, 0, 0.4); /* app background shading color [default: rgba(0, 0, 0, 0.4)] */
+  --card-shading: rgba(0, 0, 0, 0.2); /* cards background shading color [default: rgba(0, 0, 0, 0.2)] */
+  --popout-shading: rgba(0, 0, 0, 0.6); /* popouts background shading color [default: rgba(0, 0, 0, 0.6)] */
+  --modal-shading: rgba(0, 0, 0, 0.4); /* modals background shading color [default: rgba(0, 0, 0, 0.4)] */
+  --input-shading: rgba(255, 255, 255, 0.05); /* inputs background shading color [default: rgba(255, 255, 255, 0.05)] */
+  --normal-text: #d8d8db; /* text color [default: #d8d8db] */
+  --muted-text: #aeaeb4; /* muted text color [default: #aeaeb4] */
+}
+
+/* DARK THEME */
+:is(.theme-darker, .theme-light .theme-darker) {
+  --background-shading: rgba(0, 0, 0, 0.6); /* app background shading color [default: rgba(0, 0, 0, 0.6)] */
+  --card-shading: rgba(0, 0, 0, 0.3); /* cards background shading color [default: rgba(0, 0, 0, 0.3)] */
+  --popout-shading: rgba(0, 0, 0, 0.7); /* popouts background shading color [default: rgba(0, 0, 0, 0.7)] */
+  --modal-shading: rgba(0, 0, 0, 0.5); /* modals background shading color [default: rgba(0, 0, 0, 0.6)] */
+  --input-shading: rgba(255, 255, 255, 0.05); /* inputs background shading color [default: rgba(255, 255, 255, 0.05)] */
+  --normal-text: #fbfbfb; /* text color [default: #fbfbfb] */
+  --muted-text: #94949c; /* muted text color [default: #94949c] */
+}
+
+/* ONYX THEME */
+:is(.theme-midnight, .theme-light .theme-midnight) {
+  --background-shading: rgba(0, 0, 0, 0.8); /* app background shading color [default: rgba(0, 0, 0, 0.8)] */
+  --card-shading: rgba(0, 0, 0, 0.4); /* cards background shading color [default: rgba(0, 0, 0, 0.4)] */
+  --popout-shading: rgba(0, 0, 0, 0.8); /* popouts background shading color [default: rgba(0, 0, 0, 0.8)] */
+  --modal-shading: rgba(0, 0, 0, 0.6); /* modals background shading color [default: rgba(0, 0, 0, 0.6)] */
+  --input-shading: rgba(255, 255, 255, 0.05); /* inputs background shading color [default: rgba(255, 255, 255, 0.05)] */
+  --normal-text: #dcdcde; /* text color [default: #dcdcde] */
+  --muted-text: #86868e; /* muted text color [default: #86868e] */
+}
+
+/* ADD ADDITIONAL CSS BELOW HERE */
